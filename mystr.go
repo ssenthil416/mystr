@@ -2,7 +2,7 @@ package mystr
 
 func StrMirror(inStr string) bool {
 	inStrLen := len(inStr)
-	if inStrLen < 1 {
+	if inStrLen <= 1 {
 		return false
 	}
 	j := inStrLen - 1
