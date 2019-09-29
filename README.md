@@ -1,0 +1,2 @@
+# mystr
+String Methods
