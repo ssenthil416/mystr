@@ -1,2 +1,3 @@
 # mystr
-String Methods
+
+GO String Methods
